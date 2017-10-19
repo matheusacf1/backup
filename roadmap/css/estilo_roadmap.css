@@ -1,0 +1,48 @@
+
+
+h1{
+  text-align: center;
+  margin-top:1cm;
+  font-size:50px;
+}
+
+#tabela1 {
+  text-align: center;
+  margin: 0 auto;
+  margin-top:1cm;
+  font-size:24px;
+  background-color:#CCCCCC;
+}
+table#tabela2{ /* Toda a tabela com fundo creme */
+  background: #8B7D7B;
+
+}
+table#tabela2 tr.dif td {
+  background: #eee; /* Linhas com fundo cinza */
+}
+
+#botao1{
+  color:#000000;
+  text-align: right;
+  font-family: serif;
+  margin-left:1cm;
+  background-color:#cccccc;
+
+}
+#botao2{
+  color:#000000;
+  text-align: right;
+  font-family: serif;
+
+  background-color:#cccccc;
+  border:"1";
+}
+
+.collapsed{
+
+  margin-left:1cm;
+}
+
+.panel-body{
+  margin-left:1cm;
+}

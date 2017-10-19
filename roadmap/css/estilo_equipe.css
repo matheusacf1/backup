@@ -1,0 +1,41 @@
+
+
+h1{
+  text-align: center;
+  margin-top:1cm;
+  font-size:50px;
+}
+
+#tabela1 {
+  text-align: center;
+  margin: 0 auto;
+  margin-top:1cm;
+  font-size:28px;
+
+}
+
+#tabela2 {
+  width:2%;
+  text-align:center;
+  margin: 0 auto;
+  margin-top:1cm;
+  font-size:16px;
+
+}
+
+#botao1{
+  color:#000000;
+  text-align: right;
+  font-family: serif;
+  margin-left:1cm;
+  background-color:#cccccc;
+
+}
+#botao2{
+  color:#000000;
+  text-align: right;
+  font-family: serif;
+
+  background-color:#cccccc;
+  border:"1";
+}
